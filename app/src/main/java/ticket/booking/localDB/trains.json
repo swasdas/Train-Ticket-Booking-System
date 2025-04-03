@@ -1,0 +1,105 @@
+[
+  {
+    "train_id": "Delhi-Chennai Express",
+    "train_no": 2873,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "bangalore": "13:50:00",
+      "jaipur": "13:50:00",
+      "delhi": "13:50:00"
+    },
+    "stations": [
+      "delhi",
+      "mumbai",
+      "chennai"
+    ]
+  },
+  {
+    "train_id": "Bangalore-Delhi Express",
+    "train_no": 4719,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "bangalore": "13:50:00",
+      "jaipur": "13:50:00",
+      "delhi": "13:50:00"
+    },
+    "stations": [
+      "bangalore",
+      "jaipur",
+      "delhi"
+    ]
+  },
+  {
+    "train_id": "Bangalore-kolkata Express",
+    "train_no": 3862,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "bangalore": "13:50:00",
+      "jaipur": "13:50:00",
+      "delhi": "13:50:00"
+    },
+    "stations": [
+      "bangalore",
+      "indore",
+      "kolkata"
+    ]
+  },
+  {
+    "train_id": "Bangalore-Kashmir Express",
+    "train_no": 5987,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "bangalore": "13:50:00",
+      "jaipur": "13:50:00",
+      "delhi": "13:50:00"
+    },
+    "stations": [
+      "bangalore",
+      "mumbai",
+      "delhi",
+      "kashmir"
+    ]
+  },
+  {
+    "train_id": "Bangalore-Mumbai Express",
+    "train_no": 1110,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "bangalore": "13:50:00",
+      "jaipur": "13:50:00",
+      "delhi": "13:50:00"
+    },
+    "stations": [
+      "bangalore",
+      "chennai",
+      "hyderabad",
+      "pune",
+      "mumbai"
+    ]
+  }
+]
